@@ -1,0 +1,15 @@
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro.js --js_output_file js\ibs_mappro.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_colorpicker.js --js_output_file js\ibs_mappro_colorpicker.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_elevation.js --js_output_file js\ibs_mappro_elevation.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_file.js --js_output_file js\ibs_mappro_file.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_filetree.js --js_output_file js\ibs_mappro_filetree.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_handlers.js --js_output_file js\ibs_mappro_handlers.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_html.js --js_output_file js\ibs_mappro_html.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_library.js --js_output_file js\ibs_mappro_library.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_media.js --js_output_file js\ibs_mappro_media.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_placemark.js --js_output_file js\ibs_mappro_placemark.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_places.js --js_output_file js\ibs_mappro_places.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_scrollto.js --js_output_file js\ibs_mappro_scrollto.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_segment.js --js_output_file js\ibs_mappro_segment.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_utility.js --js_output_file js\ibs_mappro_utility.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\ibs_mappro_xml.js --js_output_file js\ibs_mappro_xml.min.js

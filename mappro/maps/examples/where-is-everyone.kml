@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[segments]]></name>
+    <open>1</open>
+    <description><![CDATA[]]></description>
+    <Style id="IconStyle-001">
+      <IconStyle>
+        <Icon>
+          <href>http://localhost/wp/wp-content/uploads/ibs-files/mappro/icons/paddles/pink.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="IconStyle-002">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/micons/ylw-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="IconStyle-003">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/micons/red-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="IconStyle-004">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/micons/blue-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="IconStyle-005">
+      <IconStyle>
+        <Icon>
+          <href>http://localhost/wp/wp-content/uploads/ibs-files/mappro/icons/paddles/lightblue.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="IconStyle-006">
+      <IconStyle>
+        <Icon>
+          <href>http://localhost/wp/wp-content/plugins/ibs-mappro/image/waypoint.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="LineStyle-001">
+      <LineStyle>
+        <color>800000ff</color>
+        <width>6</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>800000ff</color>
+      </PolyStyle>
+    </Style>
+    <Folder>
+      <name>Placemarks</name>
+      <description>placemarks</description>
+      <Placemark>
+        <name><![CDATA[Start here at Georgia O'Keeffe Museum]]></name>
+        <description><![CDATA[<p>Georgia O&#39;Keeffe Museum</p>
+
+<p>217 Johnson St, Santa Fe, NM 87501, United States</p>
+
+<p><a href="http://okeeffemuseum.org/" style="color: rgb(66, 114, 219); transition-property: border, background, color; transition-duration: 0.05s; transition-timing-function: ease-in-out; outline: 0px;" target="_blank">okeeffemuseum.org</a></p>
+
+<p>(505) 946-1000</p>
+]]></description>
+        <styleUrl>#IconStyle-001</styleUrl>
+        <Point>
+          <coordinates>-105.94101056456566,35.68936974353004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Harpo]]></name>
+        <description><![CDATA[<p>where is Harpo?</p>
+]]></description>
+        <styleUrl>#IconStyle-002</styleUrl>
+        <Point>
+          <coordinates>-114.04512405395508,35.20635544519963,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Spoon]]></name>
+        <description><![CDATA[<p>where is Spoon?</p>
+]]></description>
+        <styleUrl>#IconStyle-003</styleUrl>
+        <Point>
+          <coordinates>-110.69429397583008,35.02662273458687,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Oren]]></name>
+        <description><![CDATA[<p>where is Oren?</p>
+]]></description>
+        <styleUrl>#IconStyle-004</styleUrl>
+        <Point>
+          <coordinates>-114.68233108520508,34.88255137094983,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wally World]]></name>
+        <description><![CDATA[<p>Disney California Adventure Park</p>
+
+<p>1313 Disneyland Dr, Anaheim, CA 92802, United States</p>
+
+<p>(714) 781-4565</p>
+]]></description>
+        <styleUrl>#IconStyle-005</styleUrl>
+        <Point>
+          <coordinates>-117.9145812895149,33.80717097462184,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1000]]></name>
+        <description><![CDATA[Start - 171 Williams St, Santa Fe, NM 87501, USA]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-105.93184000000002,35.694430000000004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1001]]></name>
+        <description><![CDATA[<div><label>0  mi : </label><span>Head <b>south</b> on <b>Sunset St</b> toward <b>Callecita Pl</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-105.93184000000002,35.694430000000004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1002]]></name>
+        <description><![CDATA[<div><label>0.2  mi : </label><span>Continue onto <b>Otero St</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-105.93184000000002,35.694430000000004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1003]]></name>
+        <description><![CDATA[<div><label>0.4  mi : </label><span>Turn <b>left</b> onto <b>Paseo De Peralta</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-105.93184000000002,35.694430000000004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1004]]></name>
+        <description><![CDATA[<div><label>1.2  mi : </label><span>Turn <b>left</b> onto <b>Old Santa Fe Trail</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-105.93184000000002,35.694430000000004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1005]]></name>
+        <description><![CDATA[<div><label>1.5  mi : </label><span>Continue onto <b>Old Pecos Trail</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-105.93923000000001,35.660160000000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1006]]></name>
+        <description><![CDATA[<div><label>3.1  mi : </label><span>Slight <b>left</b> onto <b>NM-466 S</b>/<b>Old Pecos Trail</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-105.93923000000001,35.660160000000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1007]]></name>
+        <description><![CDATA[<div><label>4.4  mi : </label><span>Turn <b>right</b> onto the <b>Interstate 25 S</b> ramp to <b>Albuquerque</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-105.92988000000003,35.63796,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1008]]></name>
+        <description><![CDATA[<div><label>4.7  mi : </label><span>Merge onto <b>I-25 S</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-105.92988000000003,35.63796,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1009]]></name>
+        <description><![CDATA[<div><label>62  mi : </label><span>Take exit <b>226A-226B</b> to merge onto <b>I-40 W</b> toward <b>Gallup</b><div style="font-size:0.9em">Passing through Arizona</div><div style="font-size:0.9em">Entering California</div></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-106.63168000000002,35.10587,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1010]]></name>
+        <description><![CDATA[<div><label>734.6  mi : </label><span>Merge onto <b>I-15 S</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-117.01085,34.88642,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1011]]></name>
+        <description><![CDATA[<div><label>793.2  mi : </label><span>Keep <b>right</b> at the fork to stay on <b>I-15 S</b>, follow signs for <b>Los Angeles</b>/<b>San Diego</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-117.41165999999998,34.226020000000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1012]]></name>
+        <description><![CDATA[<div><label>801.1  mi : </label><span>Keep <b>left</b> to stay on <b>I-15 S</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-117.53618,34.10313,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1013]]></name>
+        <description><![CDATA[<div><label>810.1  mi : </label><span>Take exit <b>106</b> to merge onto <b>CA-60 W</b> toward <b>Los Angeles</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-117.5532,34.02369,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1014]]></name>
+        <description><![CDATA[<div><label>827.3  mi : </label><span>Keep <b>right</b> at the fork to continue on <b>CA-57 S</b>, follow signs for <b>Santa Ana</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-117.83913000000001,33.99759,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1015]]></name>
+        <description><![CDATA[<div><label>839.8  mi : </label><span>Take exit <b>4</b> toward <b>Anaheim</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-117.87633,33.84163,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1016]]></name>
+        <description><![CDATA[<div><label>840  mi : </label><span>Turn <b>right</b> onto <b>E Lincoln Ave</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-117.87633,33.84163,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1017]]></name>
+        <description><![CDATA[<div><label>841.5  mi : </label><span>Turn <b>left</b> onto <b>S East St</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-117.90659,33.8359,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1018]]></name>
+        <description><![CDATA[<div><label>841.6  mi : </label><span>Turn <b>right</b> onto <b>E Broadway</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-117.90659,33.8359,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1019]]></name>
+        <description><![CDATA[<div><label>841.9  mi : </label><span>Turn <b>right</b> onto <b>S Atchison St</b></span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-117.90659,33.8359,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[S1001 1021]]></name>
+        <description><![CDATA[<div><label>842  mi : </label><span>134-212 S Atchison St, Anaheim, CA 92805, USA</span></div>]]></description>
+        <styleUrl>#IconStyle-006</styleUrl>
+        <Point>
+          <coordinates>-117.90659,33.8359,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>segments</name>
+      <description>segment lines</description>
+      <Placemark>
+        <name><![CDATA[Wally World]]></name>
+        <description><![CDATA[S1001 description]]></description>
+        <styleUrl>#LineStyle-001</styleUrl>
+        <LineString>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-105.93184000000002,35.694430000000004,0.00000 
+-105.93923000000001,35.660160000000005,0.00000 
+-105.92988000000003,35.63796,0.00000 
+-105.93849,35.63785,0.00000 
+-105.96102000000002,35.63308,0.00000 
+-105.99783000000002,35.622330000000005,0.00000 
+-106.02927,35.61021,0.00000 
+-106.12761,35.54757,0.00000 
+-106.16971000000001,35.52122,0.00000 
+-106.20920999999998,35.521080000000005,0.00000 
+-106.24232,35.50806,0.00000 
+-106.27583000000004,35.482200000000006,0.00000 
+-106.36646000000002,35.44364,0.00000 
+-106.39557000000002,35.423120000000004,0.00000 
+-106.43948999999998,35.39963,0.00000 
+-106.53125999999997,35.321960000000004,0.00000 
+-106.56357000000003,35.261120000000005,0.00000 
+-106.59055000000001,35.14611,0.00000 
+-106.61883,35.12715,0.00000 
+-106.63168000000002,35.10587,0.00000 
+-106.69234,35.10651,0.00000 
+-106.72990000000004,35.094350000000006,0.00000 
+-106.79356999999999,35.06235,0.00000 
+-107.03564,35.008390000000006,0.00000 
+-107.14078,34.97876,0.00000 
+-107.23403000000002,34.992940000000004,0.00000 
+-107.29642000000001,34.994240000000005,0.00000 
+-107.32754999999997,35.0167,0.00000 
+-107.34001999999998,35.03351,0.00000 
+-107.35959000000003,35.038540000000005,0.00000 
+-107.39326,35.026700000000005,0.00000 
+-107.44976000000003,35.02772,0.00000 
+-107.50589000000002,35.046760000000006,0.00000 
+-107.53476,35.07273,0.00000 
+-107.65555,35.07473,0.00000 
+-107.68999000000002,35.0642,0.00000 
+-107.71557000000001,35.06548,0.00000 
+-107.76727,35.082480000000004,0.00000 
+-107.84711000000004,35.139950000000006,0.00000 
+-107.89796000000001,35.167640000000006,0.00000 
+-107.91993000000002,35.204100000000004,0.00000 
+-107.97865999999999,35.265910000000005,0.00000 
+-108.00801999999999,35.343050000000005,0.00000 
+-108.06891999999999,35.369730000000004,0.00000 
+-108.23761999999999,35.399350000000005,0.00000 
+-108.33111000000002,35.43224,0.00000 
+-108.41876000000002,35.47334,0.00000 
+-108.52361000000002,35.504780000000004,0.00000 
+-108.60631000000001,35.529970000000006,0.00000 
+-108.7074,35.53251,0.00000 
+-108.77967999999998,35.522850000000005,0.00000 
+-108.82490000000001,35.511430000000004,0.00000 
+-108.86313000000001,35.496370000000006,0.00000 
+-108.93101999999999,35.47054,0.00000 
+-108.9633,35.438860000000005,0.00000 
+-108.99725000000001,35.41172,0.00000 
+-109.01396,35.385070000000006,0.00000 
+-109.04428999999999,35.36787,0.00000 
+-109.07481000000001,35.33198,0.00000 
+-109.12732,35.30181,0.00000 
+-109.17847,35.2804,0.00000 
+-109.21414000000004,35.283,0.00000 
+-109.25976000000003,35.276230000000005,0.00000 
+-109.32128999999998,35.223760000000006,0.00000 
+-109.38033000000001,35.20235,0.00000 
+-109.45853,35.18224,0.00000 
+-109.54574000000002,35.127340000000004,0.00000 
+-109.67201,35.09487,0.00000 
+-109.78194000000002,35.06017,0.00000 
+-109.85184000000004,35.020070000000004,0.00000 
+-109.90071,35.000690000000006,0.00000 
+-109.95436000000001,34.992290000000004,0.00000 
+-110.05355000000003,34.98104,0.00000 
+-110.09082000000001,34.97171,0.00000 
+-110.13252999999997,34.93121,0.00000 
+-110.15242,34.914060000000006,0.00000 
+-110.21242000000001,34.907520000000005,0.00000 
+-110.25572,34.91971,0.00000 
+-110.27868999999998,34.938460000000006,0.00000 
+-110.31993999999997,34.955580000000005,0.00000 
+-110.38288999999997,34.96139,0.00000 
+-110.49214,34.972370000000005,0.00000 
+-110.53417000000002,34.97829,0.00000 
+-110.61547000000002,35.006040000000006,0.00000 
+-110.67153000000002,35.01717,0.00000 
+-110.68963000000002,35.03726,0.00000 
+-110.72702000000004,35.03806,0.00000 
+-110.77474000000001,35.04984,0.00000 
+-110.92090000000002,35.092870000000005,0.00000 
+-111.01620000000003,35.10815,0.00000 
+-111.17939000000001,35.12764,0.00000 
+-111.24705,35.152460000000005,0.00000 
+-111.27753000000001,35.16212,0.00000 
+-111.29867000000002,35.15876,0.00000 
+-111.37836000000004,35.19021,0.00000 
+-111.43513000000002,35.201950000000004,0.00000 
+-111.57404000000002,35.21846,0.00000 
+-111.63247999999999,35.18636,0.00000 
+-111.65332999999998,35.17192,0.00000 
+-111.67714000000001,35.178250000000006,0.00000 
+-111.75052,35.19932,0.00000 
+-111.79572999999999,35.22366,0.00000 
+-111.83293000000003,35.24141,0.00000 
+-111.87213000000003,35.24897,0.00000 
+-111.92621000000003,35.2571,0.00000 
+-111.99315999999999,35.25061,0.00000 
+-112.06479000000002,35.263980000000004,0.00000 
+-112.11806000000001,35.2584,0.00000 
+-112.1866,35.26239,0.00000 
+-112.23329000000001,35.231550000000006,0.00000 
+-112.25404000000003,35.22388,0.00000 
+-112.27993000000004,35.21981,0.00000 
+-112.34860000000003,35.217310000000005,0.00000 
+-112.41074000000003,35.213440000000006,0.00000 
+-112.59153000000003,35.23066,0.00000 
+-112.68992000000003,35.25003,0.00000 
+-112.73155000000003,35.270830000000004,0.00000 
+-112.76636000000002,35.27528,0.00000 
+-112.86689000000001,35.315270000000005,0.00000 
+-112.92619000000002,35.322970000000005,0.00000 
+-112.97575,35.31185,0.00000 
+-113.02271999999999,35.299580000000006,0.00000 
+-113.07513,35.29198,0.00000 
+-113.10937999999999,35.287670000000006,0.00000 
+-113.13702999999998,35.275000000000006,0.00000 
+-113.27517,35.20906,0.00000 
+-113.33100999999999,35.191120000000005,0.00000 
+-113.4162,35.193130000000004,0.00000 
+-113.46663999999998,35.18444,0.00000 
+-113.53363999999999,35.164010000000005,0.00000 
+-113.66230000000002,35.162490000000005,0.00000 
+-113.7622,35.169410000000006,0.00000 
+-113.83303000000001,35.19399,0.00000 
+-113.99031000000002,35.216330000000006,0.00000 
+-114.04732000000001,35.21481,0.00000 
+-114.06568000000004,35.201220000000006,0.00000 
+-114.06873999999999,35.18493,0.00000 
+-114.07460000000003,35.16339,0.00000 
+-114.11482999999998,35.11459,0.00000 
+-114.13713000000001,34.999700000000004,0.00000 
+-114.15350000000001,34.89164,0.00000 
+-114.14580000000001,34.84223,0.00000 
+-114.14886999999999,34.81074,0.00000 
+-114.17596000000003,34.784200000000006,0.00000 
+-114.25936000000002,34.734260000000006,0.00000 
+-114.46967000000001,34.71851,0.00000 
+-114.52737000000002,34.71781,0.00000 
+-114.56383,34.75056,0.00000 
+-114.58086000000003,34.77431,0.00000 
+-114.59697,34.824510000000004,0.00000 
+-114.61594000000002,34.84742,0.00000 
+-114.66048,34.87713,0.00000 
+-114.70272999999997,34.89126,0.00000 
+-114.75457,34.878350000000005,0.00000 
+-114.7858,34.882960000000004,0.00000 
+-114.84739000000002,34.867250000000006,0.00000 
+-114.90218000000004,34.85647,0.00000 
+-114.92956000000004,34.85671,0.00000 
+-115.01976000000002,34.83158,0.00000 
+-115.15917000000002,34.81642,0.00000 
+-115.29396000000003,34.803380000000004,0.00000 
+-115.35682000000003,34.804080000000006,0.00000 
+-115.40956,34.793980000000005,0.00000 
+-115.49793,34.756190000000004,0.00000 
+-115.58199000000002,34.73158,0.00000 
+-115.66209000000003,34.722750000000005,0.00000 
+-115.78809000000001,34.71978,0.00000 
+-115.88783000000001,34.735780000000005,0.00000 
+-115.98128000000003,34.72115,0.00000 
+-116.03219999999999,34.71822,0.00000 
+-116.06798000000003,34.72234,0.00000 
+-116.16284000000002,34.725660000000005,0.00000 
+-116.26330999999999,34.729060000000004,0.00000 
+-116.31466,34.74025,0.00000 
+-116.36056000000002,34.769090000000006,0.00000 
+-116.41230999999999,34.78294,0.00000 
+-116.51490999999999,34.79945,0.00000 
+-116.70204000000001,34.830850000000005,0.00000 
+-116.90336000000002,34.85793,0.00000 
+-116.94461000000001,34.86645,0.00000 
+-116.97048000000001,34.880140000000004,0.00000 
+-117.01085,34.88642,0.00000 
+-117.06505000000004,34.88101,0.00000 
+-117.08278000000001,34.86196,0.00000 
+-117.09768000000003,34.810460000000006,0.00000 
+-117.16560000000004,34.75412,0.00000 
+-117.21100000000001,34.691280000000006,0.00000 
+-117.21008,34.66877,0.00000 
+-117.23034000000001,34.62818,0.00000 
+-117.29192,34.550900000000006,0.00000 
+-117.31991,34.51932,0.00000 
+-117.35401000000002,34.4606,0.00000 
+-117.44736,34.348780000000005,0.00000 
+-117.47242,34.347860000000004,0.00000 
+-117.48142999999999,34.343340000000005,0.00000 
+-117.48225000000002,34.323,0.00000 
+-117.46722,34.30543,0.00000 
+-117.45215000000002,34.29046,0.00000 
+-117.44972000000001,34.26261,0.00000 
+-117.42995000000002,34.240080000000006,0.00000 
+-117.41165999999998,34.226020000000005,0.00000 
+-117.41173000000003,34.21522,0.00000 
+-117.43813999999998,34.180690000000006,0.00000 
+-117.53618,34.10313,0.00000 
+-117.55015000000003,34.04804,0.00000 
+-117.5532,34.02369,0.00000 
+-117.59314,34.03072,0.00000 
+-117.71301,34.029900000000005,0.00000 
+-117.76855999999998,34.02373,0.00000 
+-117.79459000000003,34.02769,0.00000 
+-117.81460000000004,34.020880000000005,0.00000 
+-117.83913000000001,33.99759,0.00000 
+-117.84298999999999,33.97614,0.00000 
+-117.86579,33.94932,0.00000 
+-117.88067999999998,33.919140000000006,0.00000 
+-117.87581,33.851200000000006,0.00000 
+-117.87633,33.84163,0.00000 
+-117.88823000000002,33.839890000000004,0.00000 
+-117.90659,33.8359,0.00000 
+</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
